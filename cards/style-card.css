@@ -14,8 +14,6 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    
-    
     transition: 0.3s;
     color:black;
     margin-left: 0px;;
@@ -24,33 +22,24 @@
     height:580px;
     background: #8f56bd;
     color:white;
-    
 }
 .app-card:hover  .btn { 
     color:white;
     border: 2px solid white;
 }
-
-
-
 h1{
     font-size: 20px;
-    
 }
 h2{
     font-size:60px;
     /* margin-bottom: 30px; */
-    
 }
 p{ 
     height: 50px;
     font-size: 20px;
     margin:0;
-    
     border-bottom: 1px solid #bdbdbd;
-   
     padding: 20px 0 0 0;
-    
 }
 .corpo{
    width: 100%;
@@ -68,12 +57,6 @@ h3{
     font-size: 30px;
     margin-right: 20px;
 }
-
-
-
-
-
-
 .box{
     width: 350px;
     height:550px;
@@ -116,3 +99,8 @@ h3{
     background:#ffffff55;
     cursor: pointer;
 }
+
+
+
+
+
